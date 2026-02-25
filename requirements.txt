@@ -1,0 +1,5 @@
+python-telegram-bot==21.0
+bingart
+rembg==2.0.59
+Pillow==11.0.0
+python-dotenv==1.0.1
